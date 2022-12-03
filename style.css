@@ -72,11 +72,17 @@ footer {
   }
 
   .box {
+    width: 90%;
     margin: 0 auto;
   }
 
+  .box-img{
+    width: 96%;
+    margin: 2%;
+  }
+
   .box:nth-child(2) {
-    margin: 30px auto;
+    margin: 20px auto;
   }
 
 
